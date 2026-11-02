@@ -1,0 +1,11 @@
+{
+  "label": "Sesión 7 · XSS y protección de datos",
+  "position": 7,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "title": "Sesión 7 · XSS y protección de datos",
+    "slug": "/sesiones/sesion-7/",
+    "description": "Comparar tipos de XSS y sus defensas, revisar configuraciones y evitar la exposición de datos y credenciales. Material de origen: parte 2, diapositivas 18–30."
+  }
+}
