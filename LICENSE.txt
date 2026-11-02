@@ -10,17 +10,15 @@ Los componentes sujetos a condiciones específicas o a licencias de terceros se 
 
 Se concede una autorización gratuita y no exclusiva a quien acceda lícitamente a los materiales para:
 
-- Consultarlos, descargarlos, imprimirlos y conservar copias para su estudio personal, individual y no comercial.
-- Realizar anotaciones y adaptar o ejecutar los ejemplos de código para ese aprendizaje, en entornos propios o autorizados.
-- Entregar al profesorado de la asignatura los ejercicios realizados, por los canales de acceso restringido previstos para su evaluación.
+- Consultarlos, para su estudio personal, individual y no comercial.
 
-Deben conservarse los avisos de autoría, las referencias y estas condiciones en las copias. Estos permisos no incluyen la publicación de los materiales ni de sus adaptaciones.
+Deben conservarse los avisos de autoría, las referencias y estas condiciones. Estos permisos no incluyen la publicación de los materiales ni de sus adaptaciones.
 
 3. Usos sujetos a autorización
 
 Fuera de los permisos anteriores y de las excepciones del apartado 5, se requiere autorización previa y por escrito de los titulares de los derechos para:
 
-- Redistribuir, vender, sublicenciar o comunicar públicamente los materiales o sus adaptaciones, total o parcialmente.
+- Redistribuir, sublicenciar o comunicar públicamente los materiales o sus adaptaciones, total o parcialmente.
 - Publicarlos en otras webs, repositorios, plataformas, redes sociales o servicios de intercambio de archivos.
 - Reutilizarlos en otros cursos, manuales, productos o servicios, o darles un uso comercial.
 
@@ -32,12 +30,14 @@ Esta licencia no sustituye ni limita las licencias de Docusaurus, sus dependenci
 
 5. Límites legales, permisos previos y GitHub
 
-Estas condiciones no restringen los usos permitidos por la legislación aplicable, incluidos los supuestos de cita o de utilización educativa cuando se cumplan sus requisitos. Tampoco revocan los derechos concedidos válidamente mediante licencias o autorizaciones anteriores.
+La autorización de uso personal para estudio no comprende la reutilización de los materiales para impartir docencia en otras universidades, centros educativos o entidades de formación.
 
-Cuando el repositorio se publique en GitHub, se respetan los permisos derivados de sus condiciones de servicio, incluidos los de acceso, visualización y reproducción mediante fork dentro del servicio en los términos allí previstos. Esta licencia no permite impedir esas funcionalidades en un repositorio público ni amplía los permisos que correspondan a materiales de terceros.
+No se permite incorporar estos materiales, total o parcialmente, a asignaturas, cursos, presentaciones, manuales o campus/aulas virtuales de dichas entidades, ni distribuirlos entre su alumnado, sin autorización previa y por escrito de los titulares de los derechos.
+
+Esta restricción se aplica sin perjuicio de los usos permitidos por la legislación aplicable, las licencias de terceros, las autorizaciones anteriores válidamente concedidas y las condiciones de servicio de GitHub.
 
 6. Acceso y publicación
 
-Esta es una licencia de uso limitado, no una licencia abierta. Regula la reutilización de los contenidos; no añade contraseñas ni controles de acceso. La privacidad del repositorio y de la web se configura por separado.
+Esta es una licencia de uso limitado, no una licencia abierta. 
 
-Versión 1.0 - 2 de noviembre de 2026.
+Versión 1.0 - 26 de octubre de 2026.
