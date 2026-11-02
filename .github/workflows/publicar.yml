@@ -1,0 +1,56 @@
+name: Publicar SECURE AI UCA Data Hub
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: pages-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  construir:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: read
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-node@v7
+        with:
+          node-version: '24'
+          cache: npm
+      - name: Instalar las versiones fijadas
+        run: npm ci --no-audit --no-fund
+      - name: Verificar fuentes y correspondencia de diapositivas
+        run: npm run validar
+      - name: Construir y comprobar los enlaces
+        run: npm run build
+      - name: Preparar GitHub Pages
+        if: github.event_name != 'pull_request' && github.event.repository.private == false
+        uses: actions/configure-pages@v5
+      - name: Guardar la web
+        if: github.event_name != 'pull_request' && github.event.repository.private == false
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: build
+
+  publicar:
+    if: github.event_name != 'pull_request' && github.event.repository.private == false
+    needs: construir
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Publicar
+        id: deployment
+        uses: actions/deploy-pages@v4
