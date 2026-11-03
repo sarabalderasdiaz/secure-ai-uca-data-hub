@@ -1,0 +1,306 @@
+[
+  {
+    "ruta": "descargas",
+    "titulo": "Presentaciones y materiales",
+    "sesion": "",
+    "parte": null,
+    "desde": null,
+    "hasta": null
+  },
+  {
+    "ruta": "fuentes",
+    "titulo": "Fuentes, autoría y aclaraciones",
+    "sesion": "",
+    "parte": null,
+    "desde": null,
+    "hasta": null
+  },
+  {
+    "ruta": "glosario",
+    "titulo": "Glosario para seguir las clases",
+    "sesion": "",
+    "parte": null,
+    "desde": null,
+    "hasta": null
+  },
+  {
+    "ruta": "guias/editar",
+    "titulo": "Editar y añadir contenidos",
+    "sesion": "",
+    "parte": null,
+    "desde": null,
+    "hasta": null
+  },
+  {
+    "ruta": "guias/publicar",
+    "titulo": "Publicar y ocultar la web",
+    "sesion": "",
+    "parte": null,
+    "desde": null,
+    "hasta": null
+  },
+  {
+    "ruta": "guias/sesiones",
+    "titulo": "Organización por sesiones",
+    "sesion": "",
+    "parte": null,
+    "desde": null,
+    "hasta": null
+  },
+  {
+    "ruta": "inicio",
+    "titulo": "Desarrollo de aplicaciones seguras",
+    "sesion": "",
+    "parte": null,
+    "desde": null,
+    "hasta": null
+  },
+  {
+    "ruta": "licencia",
+    "titulo": "Licencia de uso",
+    "sesion": "",
+    "parte": null,
+    "desde": null,
+    "hasta": null
+  },
+  {
+    "ruta": "profesorado/organizacion",
+    "titulo": "Créditos y organización",
+    "sesion": "",
+    "parte": null,
+    "desde": null,
+    "hasta": null
+  },
+  {
+    "ruta": "sesiones/indice",
+    "titulo": "Sesiones de clase",
+    "sesion": "",
+    "parte": null,
+    "desde": null,
+    "hasta": null
+  },
+  {
+    "ruta": "sesiones/sesion-01/index",
+    "titulo": "Sesión 1",
+    "sesion": "Sesión 1",
+    "parte": null,
+    "desde": null,
+    "hasta": null
+  },
+  {
+    "ruta": "sesiones/sesion-02/analisis-estatico",
+    "titulo": "Qué puede aportar el análisis estático",
+    "sesion": "Sesión 2",
+    "parte": 1,
+    "desde": 40,
+    "hasta": 48
+  },
+  {
+    "ruta": "sesiones/sesion-02/autorizacion-rutas",
+    "titulo": "Autorización y acceso a archivos",
+    "sesion": "Sesión 2",
+    "parte": 1,
+    "desde": 20,
+    "hasta": 22
+  },
+  {
+    "ruta": "sesiones/sesion-02/categorias",
+    "titulo": "Categorías: agrupar para entender la causa",
+    "sesion": "Sesión 2",
+    "parte": 2,
+    "desde": 10,
+    "hasta": 11
+  },
+  {
+    "ruta": "sesiones/sesion-02/concurrencia-errores",
+    "titulo": "Concurrencia y errores que conceden permiso",
+    "sesion": "Sesión 2",
+    "parte": 1,
+    "desde": 23,
+    "hasta": 26
+  },
+  {
+    "ruta": "sesiones/sesion-02/configuracion-datos",
+    "titulo": "Configuración, privacidad y contraseñas",
+    "sesion": "Sesión 2",
+    "parte": 2,
+    "desde": 28,
+    "hasta": 30
+  },
+  {
+    "ruta": "sesiones/sesion-02/configuracion",
+    "titulo": "Configuración segura: el depurador no es un servicio público",
+    "sesion": "Sesión 2",
+    "parte": 1,
+    "desde": 35,
+    "hasta": 36
+  },
+  {
+    "ruta": "sesiones/sesion-02/cwe-cve-cvss",
+    "titulo": "CWE, CVE y CVSS: tres preguntas distintas",
+    "sesion": "Sesión 2",
+    "parte": 1,
+    "desde": 10,
+    "hasta": 13
+  },
+  {
+    "ruta": "sesiones/sesion-02/disponibilidad-fiabilidad",
+    "titulo": "Disponibilidad y fiabilidad",
+    "sesion": "Sesión 2",
+    "parte": 2,
+    "desde": 39,
+    "hasta": 44
+  },
+  {
+    "ruta": "sesiones/sesion-02/fundamentos",
+    "titulo": "Por qué construir aplicaciones seguras",
+    "sesion": "Sesión 2",
+    "parte": 1,
+    "desde": 3,
+    "hasta": 9
+  },
+  {
+    "ruta": "sesiones/sesion-02/index",
+    "titulo": "Sesión 2",
+    "sesion": "Sesión 2",
+    "parte": null,
+    "desde": null,
+    "hasta": null
+  },
+  {
+    "ruta": "sesiones/sesion-02/inyeccion-sql",
+    "titulo": "Inyección SQL: datos que alteran una consulta",
+    "sesion": "Sesión 2",
+    "parte": 1,
+    "desde": 17,
+    "hasta": 19
+  },
+  {
+    "ruta": "sesiones/sesion-02/metricas",
+    "titulo": "Métricas: contar no basta para decidir",
+    "sesion": "Sesión 2",
+    "parte": 2,
+    "desde": 3,
+    "hasta": 9
+  },
+  {
+    "ruta": "sesiones/sesion-02/recursos-estado",
+    "titulo": "Limitar recursos y evitar datos compartidos por accidente",
+    "sesion": "Sesión 2",
+    "parte": 1,
+    "desde": 27,
+    "hasta": 34
+  },
+  {
+    "ruta": "sesiones/sesion-02/registros",
+    "titulo": "Log injection y log forging",
+    "sesion": "Sesión 2",
+    "parte": 2,
+    "desde": 12,
+    "hasta": 17
+  },
+  {
+    "ruta": "sesiones/sesion-02/revision",
+    "titulo": "De las alertas a una revisión útil",
+    "sesion": "Sesión 2",
+    "parte": 1,
+    "desde": 49,
+    "hasta": 50
+  },
+  {
+    "ruta": "sesiones/sesion-02/safety",
+    "titulo": "Safety: evitar daños físicos",
+    "sesion": "Sesión 2",
+    "parte": 2,
+    "desde": 45,
+    "hasta": 48
+  },
+  {
+    "ruta": "sesiones/sesion-02/sast-dast",
+    "titulo": "SAST, DAST y la interpretación de alertas",
+    "sesion": "Sesión 2",
+    "parte": 1,
+    "desde": 37,
+    "hasta": 39
+  },
+  {
+    "ruta": "sesiones/sesion-02/security",
+    "titulo": "Security: confidencialidad, integridad y disponibilidad",
+    "sesion": "Sesión 2",
+    "parte": 2,
+    "desde": 49,
+    "hasta": 50
+  },
+  {
+    "ruta": "sesiones/sesion-02/sistemas-criticos",
+    "titulo": "Sistemas críticos y consecuencias reales",
+    "sesion": "Sesión 2",
+    "parte": 2,
+    "desde": 31,
+    "hasta": 38
+  },
+  {
+    "ruta": "sesiones/sesion-02/xss-tipos",
+    "titulo": "XSS: tipos, efectos y defensas",
+    "sesion": "Sesión 2",
+    "parte": 2,
+    "desde": 18,
+    "hasta": 27
+  },
+  {
+    "ruta": "sesiones/sesion-02/xss",
+    "titulo": "XSS: cuando un mensaje se convierte en código",
+    "sesion": "Sesión 2",
+    "parte": 1,
+    "desde": 14,
+    "hasta": 16
+  },
+  {
+    "ruta": "sesiones/sesion-03/index",
+    "titulo": "Sesión 3",
+    "sesion": "Sesión 3",
+    "parte": null,
+    "desde": null,
+    "hasta": null
+  },
+  {
+    "ruta": "sesiones/sesion-04/index",
+    "titulo": "Sesión 4",
+    "sesion": "Sesión 4",
+    "parte": null,
+    "desde": null,
+    "hasta": null
+  },
+  {
+    "ruta": "sesiones/sesion-05/index",
+    "titulo": "Sesión 5",
+    "sesion": "Sesión 5",
+    "parte": null,
+    "desde": null,
+    "hasta": null
+  },
+  {
+    "ruta": "sesiones/sesion-06/index",
+    "titulo": "Sesión 6",
+    "sesion": "Sesión 6",
+    "parte": null,
+    "desde": null,
+    "hasta": null
+  },
+  {
+    "ruta": "sesiones/sesion-07/index",
+    "titulo": "Sesión 7",
+    "sesion": "Sesión 7",
+    "parte": null,
+    "desde": null,
+    "hasta": null
+  },
+  {
+    "ruta": "sesiones/sesion-08/index",
+    "titulo": "Sesión 8",
+    "sesion": "Sesión 8",
+    "parte": null,
+    "desde": null,
+    "hasta": null
+  }
+]

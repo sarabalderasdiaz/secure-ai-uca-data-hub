@@ -1,0 +1,28 @@
+{
+  "name": "secure-ai-uca-data-hub",
+  "version": "2.1.0",
+  "private": true,
+  "description": "Apuntes basados en las diapositivas finales de Construcción de aplicaciones seguras · SECURE AI UCA Data Hub",
+  "scripts": {
+    "start": "docusaurus start",
+    "build": "docusaurus build",
+    "serve": "docusaurus serve",
+    "clear": "docusaurus clear",
+    "validar": "node scripts/actualizar-mapa.mjs && node scripts/validar-contenido.mjs",
+    "prebuild": "node scripts/actualizar-mapa.mjs"
+  },
+  "dependencies": {
+    "@docusaurus/core": "3.10.2",
+    "@docusaurus/preset-classic": "3.10.2",
+    "@docusaurus/theme-mermaid": "3.10.2",
+    "@mdx-js/react": "3.1.1",
+    "@mermaid-js/layout-elk": "0.1.9",
+    "clsx": "2.1.1",
+    "prism-react-renderer": "2.4.1",
+    "react": "19.2.4",
+    "react-dom": "19.2.4"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}

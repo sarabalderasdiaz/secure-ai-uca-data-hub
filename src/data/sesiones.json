@@ -1,0 +1,191 @@
+[
+  {
+    "numero": 1,
+    "titulo": "Sesión 1",
+    "slug": "/sesiones/sesion-1/",
+    "temas": []
+  },
+  {
+    "numero": 2,
+    "titulo": "Sesión 2",
+    "slug": "/sesiones/sesion-2/",
+    "temas": [
+      {
+        "title": "Por qué construir aplicaciones seguras",
+        "label": "Motivación y requisitos",
+        "slug": "/materiales/parte-1/fundamentos/",
+        "position": 1,
+        "file": "docs/sesiones/sesion-02/fundamentos.md"
+      },
+      {
+        "title": "CWE, CVE y CVSS: tres preguntas distintas",
+        "label": "CWE, CVE y CVSS",
+        "slug": "/materiales/parte-1/cwe-cve-cvss/",
+        "position": 2,
+        "file": "docs/sesiones/sesion-02/cwe-cve-cvss.md"
+      },
+      {
+        "title": "XSS: cuando un mensaje se convierte en código",
+        "label": "XSS en mensajes",
+        "slug": "/materiales/parte-1/xss/",
+        "position": 3,
+        "file": "docs/sesiones/sesion-02/xss.md"
+      },
+      {
+        "title": "Inyección SQL: datos que alteran una consulta",
+        "label": "Inyección SQL",
+        "slug": "/materiales/parte-1/inyeccion-sql/",
+        "position": 4,
+        "file": "docs/sesiones/sesion-02/inyeccion-sql.md"
+      },
+      {
+        "title": "Autorización y acceso a archivos",
+        "label": "Permisos y rutas",
+        "slug": "/materiales/parte-1/autorizacion-rutas/",
+        "position": 5,
+        "file": "docs/sesiones/sesion-02/autorizacion-rutas.md"
+      },
+      {
+        "title": "Concurrencia y errores que conceden permiso",
+        "label": "Concurrencia y errores",
+        "slug": "/materiales/parte-1/concurrencia-errores/",
+        "position": 6,
+        "file": "docs/sesiones/sesion-02/concurrencia-errores.md"
+      },
+      {
+        "title": "Limitar recursos y evitar datos compartidos por accidente",
+        "label": "Recursos y estado compartido",
+        "slug": "/materiales/parte-1/recursos-estado/",
+        "position": 7,
+        "file": "docs/sesiones/sesion-02/recursos-estado.md"
+      },
+      {
+        "title": "Configuración segura: el depurador no es un servicio público",
+        "label": "Configuración de despliegue",
+        "slug": "/materiales/parte-1/configuracion/",
+        "position": 8,
+        "file": "docs/sesiones/sesion-02/configuracion.md"
+      },
+      {
+        "title": "SAST, DAST y la interpretación de alertas",
+        "label": "SAST, DAST y alertas",
+        "slug": "/materiales/parte-1/sast-dast/",
+        "position": 9,
+        "file": "docs/sesiones/sesion-02/sast-dast.md"
+      },
+      {
+        "title": "Qué puede aportar el análisis estático",
+        "label": "Análisis estático",
+        "slug": "/materiales/parte-1/analisis-estatico/",
+        "position": 10,
+        "file": "docs/sesiones/sesion-02/analisis-estatico.md"
+      },
+      {
+        "title": "De las alertas a una revisión útil",
+        "label": "Revisión con evidencias",
+        "slug": "/materiales/parte-1/revision/",
+        "position": 11,
+        "file": "docs/sesiones/sesion-02/revision.md"
+      },
+      {
+        "title": "Métricas: contar no basta para decidir",
+        "label": "Métricas e interpretación",
+        "slug": "/materiales/parte-2/metricas/",
+        "position": 12,
+        "file": "docs/sesiones/sesion-02/metricas.md"
+      },
+      {
+        "title": "Categorías: agrupar para entender la causa",
+        "label": "Categorías de vulnerabilidad",
+        "slug": "/materiales/parte-2/categorias/",
+        "position": 13,
+        "file": "docs/sesiones/sesion-02/categorias.md"
+      },
+      {
+        "title": "Log injection y log forging",
+        "label": "Registros y eventos falsos",
+        "slug": "/materiales/parte-2/registros/",
+        "position": 14,
+        "file": "docs/sesiones/sesion-02/registros.md"
+      },
+      {
+        "title": "XSS: tipos, efectos y defensas",
+        "label": "Tipos y defensas de XSS",
+        "slug": "/materiales/parte-2/xss/",
+        "position": 15,
+        "file": "docs/sesiones/sesion-02/xss-tipos.md"
+      },
+      {
+        "title": "Configuración, privacidad y contraseñas",
+        "label": "Configuración y datos sensibles",
+        "slug": "/materiales/parte-2/configuracion-datos/",
+        "position": 16,
+        "file": "docs/sesiones/sesion-02/configuracion-datos.md"
+      },
+      {
+        "title": "Sistemas críticos y consecuencias reales",
+        "label": "Sistemas críticos y casos reales",
+        "slug": "/materiales/parte-2/sistemas-criticos/",
+        "position": 17,
+        "file": "docs/sesiones/sesion-02/sistemas-criticos.md"
+      },
+      {
+        "title": "Disponibilidad y fiabilidad",
+        "label": "Disponibilidad y fiabilidad",
+        "slug": "/materiales/parte-2/disponibilidad-fiabilidad/",
+        "position": 18,
+        "file": "docs/sesiones/sesion-02/disponibilidad-fiabilidad.md"
+      },
+      {
+        "title": "Safety: evitar daños físicos",
+        "label": "Safety y daños físicos",
+        "slug": "/materiales/parte-2/safety/",
+        "position": 19,
+        "file": "docs/sesiones/sesion-02/safety.md"
+      },
+      {
+        "title": "Security: confidencialidad, integridad y disponibilidad",
+        "label": "Security y protección de la información",
+        "slug": "/materiales/parte-2/security/",
+        "position": 20,
+        "file": "docs/sesiones/sesion-02/security.md"
+      }
+    ]
+  },
+  {
+    "numero": 3,
+    "titulo": "Sesión 3",
+    "slug": "/sesiones/sesion-3/",
+    "temas": []
+  },
+  {
+    "numero": 4,
+    "titulo": "Sesión 4",
+    "slug": "/sesiones/sesion-4/",
+    "temas": []
+  },
+  {
+    "numero": 5,
+    "titulo": "Sesión 5",
+    "slug": "/sesiones/sesion-5/",
+    "temas": []
+  },
+  {
+    "numero": 6,
+    "titulo": "Sesión 6",
+    "slug": "/sesiones/sesion-6/",
+    "temas": []
+  },
+  {
+    "numero": 7,
+    "titulo": "Sesión 7",
+    "slug": "/sesiones/sesion-7/",
+    "temas": []
+  },
+  {
+    "numero": 8,
+    "titulo": "Sesión 8",
+    "slug": "/sesiones/sesion-8/",
+    "temas": []
+  }
+]

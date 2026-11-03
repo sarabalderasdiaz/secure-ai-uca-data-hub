@@ -1,0 +1,43 @@
+LICENCIA DE USO PERSONAL PARA ESTUDIO - SECURE AI UCA Data Hub
+
+1. Alcance y titularidad
+
+Esta licencia se aplica a los materiales docentes y al código propio del repositorio, únicamente en la medida en que sus titulares puedan autorizar esos usos. Se mantienen las atribuciones que figuran en cada material y los derechos de sus respectivos titulares. Esta licencia no transfiere la titularidad ni autoriza a atribuirse la autoría de contenidos ajenos.
+
+Los componentes sujetos a condiciones específicas o a licencias de terceros se rigen por ellas, conforme al apartado 4.
+
+2. Usos permitidos
+
+Se concede una autorización gratuita y no exclusiva a quien acceda lícitamente a los materiales para:
+
+- Consultarlos, para su estudio personal, individual y no comercial.
+
+Deben conservarse los avisos de autoría, las referencias y estas condiciones. Estos permisos no incluyen la publicación de los materiales ni de sus adaptaciones.
+
+3. Usos sujetos a autorización
+
+Fuera de los permisos anteriores y de las excepciones del apartado 5, se requiere autorización previa y por escrito de los titulares de los derechos para:
+
+- Redistribuir, sublicenciar o comunicar públicamente los materiales o sus adaptaciones, total o parcialmente.
+- Publicarlos en otras webs, repositorios, plataformas, redes sociales o servicios de intercambio de archivos.
+- Reutilizarlos en otros cursos, manuales, productos o servicios, o darles un uso comercial.
+
+Las solicitudes de usos adicionales pueden dirigirse a la persona responsable del repositorio, que deberá recabar las autorizaciones que correspondan. Se reservan los derechos no concedidos expresamente.
+
+4. Materiales y software de terceros
+
+Esta licencia no sustituye ni limita las licencias de Docusaurus, sus dependencias, bibliotecas, fragmentos de código, figuras, capturas, textos u otros recursos de terceros. Deben respetarse sus propias condiciones y atribuciones. No se concede mediante este documento ningún derecho adicional sobre esos componentes, ni sobre marcas o logotipos institucionales.
+
+5. Límites legales, permisos previos y GitHub
+
+La autorización de uso personal para estudio no comprende la reutilización de los materiales para impartir docencia en otras universidades, centros educativos o entidades de formación.
+
+No se permite incorporar estos materiales, total o parcialmente, a asignaturas, cursos, presentaciones, manuales o campus/aulas virtuales de dichas entidades, ni distribuirlos entre su alumnado, sin autorización previa y por escrito de los titulares de los derechos.
+
+Esta restricción se aplica sin perjuicio de los usos permitidos por la legislación aplicable, las licencias de terceros, las autorizaciones anteriores válidamente concedidas y las condiciones de servicio de GitHub.
+
+6. Acceso y publicación
+
+Esta es una licencia de uso limitado, no una licencia abierta. 
+
+Versión 1.0 - 26 de octubre de 2026.
